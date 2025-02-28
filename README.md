@@ -1,4 +1,4 @@
-# Kindergarden Photo Sorter
+# Photo Sorter
 
 ## About
 This project quickly organizes all photos into folders based on predefined templates. It is useful for sorting and categorizing images efficiently.
